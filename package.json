@@ -1,0 +1,17 @@
+{
+  "name": "@cinatra-ai/automation-authoring-skill",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "description": "Chat automation authoring for the Cinatra assistant — one router bundle covering email outreach campaign creation, the orchestrator-driven chat campaign flow, scheduled trigger creation, and one-off workflow draft authoring on the Gantt. Consolidated from four bundles of @cinatra-ai/assistant-skills (cinatra#2090).",
+  "type": "module",
+  "files": [
+    "skills"
+  ],
+  "cinatra": {
+    "apiVersion": "cinatra.ai/v1",
+    "kind": "skill",
+    "displayName": "Automation Authoring Skill",
+    "skillRole": "injectable",
+    "dependencies": []
+  }
+}
