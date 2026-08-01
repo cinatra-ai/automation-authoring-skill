@@ -1,6 +1,6 @@
 # Cinatra Automation Authoring Skill
 
-The chat assistant's automation-authoring guidance in one router bundle: creating an email outreach campaign, running one through the email-outreach orchestrator agent, creating a scheduled trigger, and drafting a one-off, dated workflow on the Gantt. Consolidated from four bundles of @cinatra-ai/assistant-skills (cinatra#2090) — the router picks the flow, and each folded bundle's prompt is preserved verbatim under references/.
+The chat assistant's automation-authoring guidance in one router bundle: creating an email outreach campaign, running one through the email-outreach orchestrator agent, creating a scheduled trigger, and drafting a one-off, dated workflow on the Gantt. Consolidated from four bundles of @cinatra-ai/assistant-skills — the router picks the flow, and each folded bundle's prompt is preserved verbatim under references/.
 
 **Install:** Install `@cinatra-ai/automation-authoring-skill` in your Cinatra instance. Assistants that list the `chat-automation-authoring` slug in their skill bundle pick it up from the skills catalog.
 
